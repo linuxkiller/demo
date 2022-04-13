@@ -7,4 +7,4 @@ spec:
   - name: demo-pod
     image: quay.io/uvelyster/demo
     ports:
-    - containerPort: 5000
+    - containerPort: 5001
